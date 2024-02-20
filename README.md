@@ -10,7 +10,7 @@
 <!-- About Me -->
 ## 🧑🏻‍💻 About Me
 
-I'm a passionate Web Developer and Cyber Security enthusiast based in Jakarta, Indonesia. With experience working at PT JavaTech Digital Group, I'm committed to leveraging technology to create secure and innovative solutions.
+I'm a passionate Web Developer and Cyber Security enthusiast based in Banjarnegara, Jawa tengah, Indonesia. With experience working at PT JavaTech Digital Group, I'm committed to leveraging technology to create secure and innovative solutions.
 
 ## 🚀 My Expertise
 
@@ -33,7 +33,7 @@ Feel free to reach out to me through:
 
 ## 💬 Let's Connect
 
-I'm always open to collaborating on interesting projects or discussing ideas. Connect with me on LinkedIn or send me an email!
+I'm always open to collaborating on interesting projects or discussing ideas. Connect with me on send me an email!
 
 ## 📝 License
 
